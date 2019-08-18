@@ -1,0 +1,4 @@
+FROM python:3.6
+
+MAINTAINER XXX XXX@XXX.XXX
+RUN pip install thrift
